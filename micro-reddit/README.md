@@ -1,6 +1,6 @@
 [![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Ikraam-Click%20to%20Contact-brightgreen)](mailto:consult.ikraam@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/GhoorIkraam?label=Follow%20Ikraam%20on%20Twitter&style=social)](https://twitter.com/GhoorIkraam)
 
-[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Kubilay-Click%20to%20Contact-brightgreen)](mailto:kblycaglayan@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/kbcaglayan?label=Follow%20Kubilay%20on%20Twitter&style=social)](https://twitter.com/kbcaglayan)
+[![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Kubilay-Click%20to%20Contact-brightgreen)](mailto:shababsaifi@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/kbcaglayan?label=Follow%20Kubilay%20on%20Twitter&style=social)](https://twitter.com/shabab_ali)
 
 # Micro-Reddit
 
@@ -41,18 +41,18 @@ rails console
 - LinkedIn: [isghoor](https://linkedin.com/isghoor)
 - Email: [consult.ikraam@gmail.com](mailto:consult.ikraam@gmail.com)
 
-👤 **Kubilay Caglayan**
+👤 **Shabab Ali**
 
-- Github: [@kblycaglayan](https://github.com/kblycaglayan)
-- Twitter: [@kbcaglayan](https://twitter.com/kbcaglayan)
-- LinkedIn: [Kubilay](https://www.linkedin.com/in/kubilaycaglayan/)
-- Email: [kblycaglayan@gmail.com](mailto:kblycaglayan@gmail.com)
+- Github: [@alishabab](https://github.com/alishabab)
+- Twitter: [@shabab_ali](https://twitter.com/shabab_ali)
+- LinkedIn: [shababali](https://www.linkedin.com/in/shababali/)
+- Email: [shababsaifi@gmail.com](mailto:shababsaifi@gmail.com)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kblycaglayan/bubble-sort/issues)
+Feel free to check the [issues page](https://github.com/alishabab/micro-reddit/issues)
 
 Start by:
 

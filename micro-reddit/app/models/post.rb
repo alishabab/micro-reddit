@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class Post < ApplicationRecord
   validates :title, presence: true, length: { in: 3..40 }
   validates :body, presence: true
